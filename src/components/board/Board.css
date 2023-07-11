@@ -1,0 +1,30 @@
+#board {
+  display: grid;
+  grid-gap: 1rem;
+  place-items: center;
+  background-color: white;
+}
+
+.four {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.six {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.eight {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+@media only screen and (max-width: 840px) {
+  .eight {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .six {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

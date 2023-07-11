@@ -1,0 +1,41 @@
+body {
+  background-image: url('./assets/images/clouds.png');
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+
+html {
+  min-height: 100%;
+}
+
+#root {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.app {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .app {
+    margin-top: 4rem;
+  }
+}
+
+.music-icon-off {
+  background-image: url("assets/images/soundOff.png");
+  background-size: cover;
+  aspect-ratio: 1 /1;
+  width: 2rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.music-icon-on {
+  background-image: url("assets/images/soundOn.png");
+}
