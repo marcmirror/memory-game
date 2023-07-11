@@ -1,0 +1,20 @@
+#settings-container {
+  margin-top: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  background-color: white;
+}
+
+#settings-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#settings-buttons > .nes-btn {
+  margin: 1rem;
+}
+
+#settings-title {
+  text-align: center;
+}

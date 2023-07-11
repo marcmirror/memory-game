@@ -1,0 +1,15 @@
+#go-back-btn {
+  margin-top: 2rem;
+  width: 15rem;
+}
+
+#game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+#tutorial-btn {
+  margin-top: 1rem;
+}
