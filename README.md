@@ -36,4 +36,4 @@ Up-to-date *Node.js* and *npm* installation.
 
 ## License
 
-[AGPL v3](https://codeberg.org/marc/docker-name-generator/src/branch/main/LICENSE)
+[AGPL v3](https://codeberg.org/marc/memory-game/raw/branch/main/LICENSE)
