@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memory-game/static/css/main.7ae2a785.css",
-    "main.js": "/memory-game/static/js/main.62617ea5.js",
+    "main.js": "/memory-game/static/js/main.e10b5d1a.js",
     "static/media/lofi-piano.wav": "/memory-game/static/media/lofi-piano.99a0fda0ea2d6796ea8a.wav",
     "static/media/card-flip.wav": "/memory-game/static/media/card-flip.483663ca586f845f19ec.wav",
     "static/media/press-start-2p-v14-latin-regular.ttf": "/memory-game/static/media/press-start-2p-v14-latin-regular.c013a63f09a9d2075a16.ttf",
@@ -12,10 +12,10 @@
     "static/media/press-start-2p-v14-latin-regular.woff2": "/memory-game/static/media/press-start-2p-v14-latin-regular.26606132347682ad49c1.woff2",
     "index.html": "/memory-game/index.html",
     "main.7ae2a785.css.map": "/memory-game/static/css/main.7ae2a785.css.map",
-    "main.62617ea5.js.map": "/memory-game/static/js/main.62617ea5.js.map"
+    "main.e10b5d1a.js.map": "/memory-game/static/js/main.e10b5d1a.js.map"
   },
   "entrypoints": [
     "static/css/main.7ae2a785.css",
-    "static/js/main.62617ea5.js"
+    "static/js/main.e10b5d1a.js"
   ]
 }

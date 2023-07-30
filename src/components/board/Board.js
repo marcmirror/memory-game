@@ -58,7 +58,7 @@ export default function Board({boardSize, bubbleUpCardFlipEvent}) {
   async function getImages(boardSize) {
     const images = [];
     for (let i = 1; i <= 32; i++) {
-      images.push(`assets/images/cards/${i}.png`)
+      images.push(`https://wsrv.nl/?url=${window.location.href}assets/images/cards/${i}.png`)
     }
 
     shuffle(images);
