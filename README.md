@@ -1,3 +1,5 @@
+# This is a read-only mirror of the git repo at https://codeberg.org/marc/memory-game
+
 # Memory Board Game
 
 A [Memory](https://en.wikipedia.org/wiki/Concentration_(card_game)) board game clone made with [React](https://react.dev). Race against the time and try to break your own record.
